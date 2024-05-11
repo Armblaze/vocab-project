@@ -1,0 +1,33 @@
+.color-title{
+    font-weight: normal;
+}
+#red{
+    color: red;
+    font-style: italic;
+}
+#blue{
+    color:blue;
+    font-style: italic;
+}
+#orange{
+    color: orange;
+    font-style: italic;
+}
+#green{
+    color: green;
+    font-style: italic;
+}
+#yellow{
+    color:yellow;
+    font-style: italic;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+*{
+    text-align: center;
+}
+html{
+   background: aquamarine;
+}
